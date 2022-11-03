@@ -1,0 +1,12 @@
+in JS:
+- select the btn-callback button
+- add an event function where:
+    - when button is clicked, exhibit callback function where:
+        - console displays “User has clicked the button!”
+
+-Callback that issues a pop up when the screen is refreshed asking for user input
+    -Once user enters their name it will respond with a greeting "Hello, name"
+
+-Callback function that displays someones name in the console, in this case Ben!
+
+-Function that displays "Hello, name" after two seconds  
